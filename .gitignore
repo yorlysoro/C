@@ -1,0 +1,14 @@
+*.exe
+*.o
+*.so
+*.c~
+*.h~
+MasEjerciciosGCC/bin
+MasEjercicios/Carpeta \sin \titulo
+MasEjercicios/obj
+Otros/EjerciciosGCC/Debug
+Otros/Filas_Circulares/Debug
+Otros/Filas_Circulares/Release
+Otros/Hola_Mundo/Debug
+Otros/Hola_Mundo/Release
+*makefile

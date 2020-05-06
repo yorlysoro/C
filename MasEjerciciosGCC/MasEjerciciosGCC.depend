@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1476366334 source:/home/yorlys/proyectos/C/MasEjerciciosGCC/main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
